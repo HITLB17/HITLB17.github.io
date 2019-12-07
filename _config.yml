@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Homepage "
+title                    : "Bo Liu Homepage "
 title_separator          : "-"
 name                     : &name "Bo Liu"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://hitlb17.github.io/"
+  github           : "HITLB17"
   google_plus      :
   keybase          :
   instagram        :
