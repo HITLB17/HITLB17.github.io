@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bo Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bo Liu"
 description              : &description "personal description"
 url                      : https://HITLB17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Bo Liu
 facebook:
   username               :
   app_id                 :
@@ -83,10 +83,10 @@ author:
   name             : "刘博"
   avatar           : "profile.png"
   bio              : "Better late than never"
-  location         : "Location"
+  location         : "https://goo.gl/maps/1CZuTEbDmZ7mKTkc9"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "hitlb@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://hitlb17.github.io/"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/BoLiu2017"
   vine             :
   weibo            :
   youtube          :
