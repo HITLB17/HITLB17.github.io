@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Liu Homepage "
+title                    : "Personal Homepage "
 title_separator          : "-"
 name                     : &name "Bo Liu"
 description              : &description "personal description"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "hitlb@outlook.com"
+    email                : "17b904042@stu.hit.edu.cn"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "hitlb@outlook.com"
+  email            : "17b904042@stu.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
