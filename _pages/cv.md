@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Email: 17b904042@stu.hit.edu.cn
+Email: 17b904042@stu.hit.edu.cn / hitlb2017@gmail.com
 
 personal statement
 ======
