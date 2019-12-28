@@ -38,7 +38,6 @@ Research Skills
 
 Project Experience (Finished, Since 2017)
 ======
-* Summer 2015: Research Assistant
   *  **Development of UAV Collaborative cluster system in unknown environment.** I am responsible for targets assignment and path planning for UAVs. April 2018- July 2018
   * **Parrot mini drone path recognition and tracking using Simulink:** I am the supervisor of the project and I am responsible for project design and control algorithms. September 2019- November 2019
   * **Smart UAV landing on moving UGV platform:** I am responsible for project design and control algorithms, in cooperation with Zhaozhe Wang. June 2018- March 2019
