@@ -12,6 +12,6 @@ Currently a PhD candidate at Harbin Institution of Technology (HIT) with Prof. [
 
 My Bachelor's degree is from Harbin Institution of Technology (HIT) in Harbin, China. A more detailed personal data can be found in my [CV](files/CV_BoLiu.pdf).
 
-Outside of the lab, I love spending time doing some sport, like playing aeromodelling, hiking, playing tennis or a long run!
+Outside of the lab, I love spending time doing some sport, like playing aeromodelling, hiking, playing tennis and marathon!
 
 contact: 17b904042@stu.hit.edu.cn/ hitlb2017@gmail.com
