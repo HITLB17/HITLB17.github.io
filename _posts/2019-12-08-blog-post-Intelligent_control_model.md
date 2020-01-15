@@ -49,22 +49,12 @@ $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\
  
  Olfati-Saber将系统描述为$G = ({\cal V},{\cal E},{\cal A})$，${\cal E}$ 为边，${\cal A}$为邻接矩阵，它的元素均为非负。agent邻居的集合为：
  
- $$
- {N_J}: = \bigcup\limits_{ v_i \in J} {{N_i}}  = \{ {{v_j} \in {\cal V}:{v_i} \in J,\( {v_i},{v_j} \) \in {\cal E}} \},J \subseteq {\cal V}
- $$
  
  动力学模型建立为： ${\dot x_i} = f\( {{x_i},{u_i}} \),\quad i \in {\cal I}$
  
  定义有向拉普拉斯矩阵为：${\cal L}({\cal G}) = L = \Delta  - {\cal A}$, 其中$ \Delta $ 为入度矩阵。
  
  对于切换拓扑的模型定义为：
- 
- $$
- \begin{array}{l}
-{\Gamma _n} =  \{ {G = ({\cal V},{\cal E},{\cal A}):{\mathop{\rm rank}\nolimits} ({\cal L}(G)) = n - 1,{{\bf{1}}^T}{\cal L}(G) = {\bf{0}}}  \}\\
-\dot x(t) =  - {\cal L}\( {{G_k}} \)x(t)\quad k = s(t),{G_k} \in {\Gamma _n}
-\end{array}
- $$
  
  第一个式子是对强连通网络的描述，第二个式子是对系统的描述。其中$s(t):{_{ \ge 0}} \to {{\cal I}_{{\Gamma _n}}}$是切换信号。
   
