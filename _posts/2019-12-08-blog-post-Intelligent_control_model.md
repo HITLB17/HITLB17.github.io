@@ -50,7 +50,7 @@ $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\
  Olfati-Saber将系统描述为$G = ({\cal V},{\cal E},{\cal A})$，${\cal E}$ 为边，${\cal A}$为邻接矩阵，它的元素均为非负。agent邻居的集合为：
  
  
- 动力学模型建立为： ${\dot x_i} = f\( {{x_i},{u_i}} \),\quad i \in {\cal I}$
+ 动力学模型建立为： ${\dot x_i} = f\( {x_i},{u_i} \),\quad i \in {\cal I}$
  
  定义有向拉普拉斯矩阵为：${\cal L}({\cal G}) = L = \Delta  - {\cal A}$, 其中$ \Delta $ 为入度矩阵。
  
