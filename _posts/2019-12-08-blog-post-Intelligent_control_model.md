@@ -50,7 +50,7 @@ $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\
  Olfati-Saber将系统描述为$G = ({\cal V},{\cal E},{\cal A})$，${\cal E}$ 为边，${\cal A}$为邻接矩阵，它的元素均为非负。agent邻居的集合为：
  
  $$
- {N_J}: = \bigcup\limits_{{v_i} \in J} {{N_i}}  = \{ {{v_j} \in {\cal V}:{v_i} \in J,\( {v_i},{v_j} \) \in {\cal E}} \},J \subseteq {\cal V}
+ {N_J}: = \bigcup\limits_{ v_i \in J} {{N_i}}  = \{ {{v_j} \in {\cal V}:{v_i} \in J,\( {v_i},{v_j} \) \in {\cal E}} \},J \subseteq {\cal V}
  $$
  
  动力学模型建立为： ${\dot x_i} = f\( {{x_i},{u_i}} \),\quad i \in {\cal I}$
