@@ -50,10 +50,10 @@ $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\
  Olfati-Saber将系统描述为$G = ({\cal V},{\cal E},{\cal A})$，${\cal E}$ 为边，${\cal A}$为邻接矩阵，它的元素均为非负。agent邻居的集合为：
  
  $$
- {N_J}: = \bigcup\limits_{{v_i} \in J} {{N_i}}  = \left\{ {{v_j} \in {\cal V}:{v_i} \in J,\left( {{v_i},{v_j}} \right) \in {\cal E}} \right\},J \subseteq {\cal V}
+ {N_J}: = \bigcup\limits_{{v_i} \in J} {{N_i}}  = \{ {{v_j} \in {\cal V}:{v_i} \in J,\( {{v_i},{v_j}} \) \in {\cal E}} \},J \subseteq {\cal V}
  $$
  
- 动力学模型建立为： ${\dot x_i} = f\left( {{x_i},{u_i}} \right),\quad i \in {\cal I}$
+ 动力学模型建立为： ${\dot x_i} = f\( {{x_i},{u_i}} \),\quad i \in {\cal I}$
  
  定义有向拉普拉斯矩阵为：${\cal L}({\cal G}) = L = \Delta  - {\cal A}$, 其中$ \Delta $ 为入度矩阵。
  
@@ -61,8 +61,8 @@ $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\
  
  $$
  \begin{array}{l}
-{\Gamma _n} = \left\{ {G = ({\cal V},{\cal E},{\cal A}):{\mathop{\rm rank}\nolimits} ({\cal L}(G)) = n - 1,{{\bf{1}}^T}{\cal L}(G) = {\bf{0}}} \right\}\\
-\dot x(t) =  - {\cal L}\left( {{G_k}} \right)x(t)\quad k = s(t),{G_k} \in {\Gamma _n}
+{\Gamma _n} =  \{ {G = ({\cal V},{\cal E},{\cal A}):{\mathop{\rm rank}\nolimits} ({\cal L}(G)) = n - 1,{{\bf{1}}^T}{\cal L}(G) = {\bf{0}}}  \}\\
+\dot x(t) =  - {\cal L}\( {{G_k}} \)x(t)\quad k = s(t),{G_k} \in {\Gamma _n}
 \end{array}
  $$
  
