@@ -49,12 +49,15 @@ $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\
  
  Olfati-Saber将系统描述为$G = ({\cal V},{\cal E},{\cal A})$，${\cal E}$ 为边，${\cal A}$为邻接矩阵，它的元素均为非负。agent邻居的集合为：
  
+ ![set](https://github.com/HITLB17/HITLB17.github.io/blob/master/images/set.PNG?raw=true)
  
  动力学模型建立为： ${\dot x_i} = f\( {x_i},{u_i} \),\quad i \in {\cal I}$
  
  定义有向拉普拉斯矩阵为：${\cal L}({\cal G}) = L = \Delta  - {\cal A}$, 其中$ \Delta $ 为入度矩阵。
  
  对于切换拓扑的模型定义为：
+ 
+ ![model](https://github.com/HITLB17/HITLB17.github.io/blob/master/images/model.PNG?raw=true)
  
  第一个式子是对强连通网络的描述，第二个式子是对系统的描述。其中$s(t)$: $\space_{\geq 0}$ $\to$ ${\cal I}$ $\space_{\Gamma _n}$是切换信号。
   
