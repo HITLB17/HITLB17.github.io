@@ -44,6 +44,29 @@ $$\varphi = \dfrac{1}{N{v_0}} \left| {\sum \limits_{i = 1}^N {\rm{v}}_i} \right|
 $${\theta _i}(t + 1) = \dfrac{1}{1 + k_i (t) + b_i (t)} (\theta_i (t) + \sum_{j\in{N_i(t)}}{\theta _j (t)} + b_i (t)\theta _0)$$
  
  当需要领航员的情况下，${b_i}(t)=1$，否则${b_i}(t)=0$。集群系统模型自此从群体动力学模型时代进入了网络化系统与图论描述时代。
+ 
+ Olfati-Saber等人[4]–[7]在Jadbabaie工作的基础上研究了系统的网络拓扑结构与系统收敛性之间的关系，他指出如果系统的网络拓扑结构是强连通的有向图，则对于任意初始状态，系统的状态是渐近收敛的，且对于强连通有效拓扑结构下的多智能体系统，平均一致收敛的充要条件是它的信息交换图是平衡图。
+ 
+ Olfati-Saber将系统描述为$G = ({\cal V},{\cal E},{\cal A})$，${\cal E}$ 为边，${\cal A}$为邻接矩阵，它的元素均为非负。agent邻居的集合为：
+ 
+ $$
+ {N_J}: = \bigcup\limits_{{v_i} \in J} {{N_i}}  = \left\{ {{v_j} \in {\cal V}:{v_i} \in J,\left( {{v_i},{v_j}} \right) \in {\cal E}} \right\},J \subseteq {\cal V}
+ $$
+ 
+ 动力学模型建立为： ${\dot x_i} = f\left( {{x_i},{u_i}} \right),\quad i \in {\cal I}$
+ 
+ 定义有向拉普拉斯矩阵为：${\cal L}({\cal G}) = L = \Delta  - {\cal A}$, 其中$ \Delta $ 为入度矩阵。
+ 
+ 对于切换拓扑的模型定义为：
+ 
+ $$
+ \begin{array}{l}
+{\Gamma _n} = \left\{ {G = ({\cal V},{\cal E},{\cal A}):{\mathop{\rm rank}\nolimits} ({\cal L}(G)) = n - 1,{{\bf{1}}^T}{\cal L}(G) = {\bf{0}}} \right\}\\
+\dot x(t) =  - {\cal L}\left( {{G_k}} \right)x(t)\quad k = s(t),{G_k} \in {\Gamma _n}
+\end{array}
+ $$
+ 
+ 第一个式子是对强连通网络的描述，第二个式子是对系统的描述。其中$s(t):{_{ \ge 0}} \to {{\cal I}_{{\Gamma _n}}}$是切换信号。
   
 参考文献
 
