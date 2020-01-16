@@ -11,6 +11,8 @@ redirect_from:
 
 Email: 17b904042@stu.hit.edu.cn / hitlb2017@gmail.com
 
+PDF CV, you can find in [CV](files/CV_BoLiu.pdf) or [CV2](files/CV_BoLiu2.pdf)
+
 personal statement
 ======
 I have studied in Harbin Institution of Technology (HIT) since 2013. In 2017, I obtained a Bachelor degree with a major in control science and engineering. Nowadays, I am pursuing a doctor's degree with research area of heterogeneous robot system dynamic task planning and control supervised by Prof. Changhong Wang. During this period, I participated in several research projects of the Ph.D. supervisor. While learning the core task planning and control architecture, I also improved my engineering ability and mastered important tools such as single smart UAV path planning algorithm, C++, Python, Robot Operating System (ROS). Recently, I am enthusiastic about the problems on dynamic task assignment and path planning which could be used in partially observable heterogeneous robots system.
