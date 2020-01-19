@@ -11,7 +11,7 @@ redirect_from:
 
 Email: 17b904042@stu.hit.edu.cn / hitlb2017@gmail.com
 
-PDF CV, you can find in [CV](files/CV_BoLiu.pdf) or [CV2](files/CV_BoLiu2.pdf)
+PDF CV, you can find in [CV](https://hitlb17.github.io/files/CV_BoLiu.pdf) or [CV2](https://hitlb17.github.io/files/CV_BoLiu2.pdf)
 
 personal statement
 ======
