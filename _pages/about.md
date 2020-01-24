@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently a PhD candidate at Harbin Institution of Technology (HIT) with Prof. [Changhong Wang](http://homepage.hit.edu.cn/wangch), my research is on heterogeneous swarm robotic system, where I focus on how large heterogeneous teams of robots can use limited local information to complete useful tasks like localization, formation and task allocation . 
+Currently a PhD candidate at Harbin Institution of Technology (HIT) with Prof. [Changhong Wang](http://homepage.hit.edu.cn/wangch), my research is on heterogeneous swarm robotic system, multi-agents RL, and swarm intelligence, where I focus on how large heterogeneous teams of robots can use limited local information to complete useful tasks like localization, formation and task allocation . 
 
 My Bachelor's degree is from Harbin Institution of Technology (HIT) in Harbin, China. A more detailed personal data can be found in my [CV](files/CV_BoLiu.pdf) OR [CV2](files/CV_BoLiu2.pdf).
 
