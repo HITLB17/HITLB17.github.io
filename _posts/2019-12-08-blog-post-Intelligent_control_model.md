@@ -7,6 +7,9 @@ tags:
   - model
 ---
 
+**这篇文章只包括总结的一部分，完整内容可以查看[PDF文档](files/blog_file/model_of_intelligence_system.pdf)**
+**This article only concludes part of the content. If you want to read full blog, please click this [PDF](files/blog_file/model_of_intelligence_system.pdf)**
+
 集群系统模型一般包含两部分：拓扑模型和节点动力学模型。拓扑模型决定了智能体间的连接关系，通常用图表示，如：无向图、有向图、加权图等。节点动力学模型用于描述每个智能体自身的运动规则，通常采用一阶、二阶积分器模型、一般系统模型等方法。
 
 最早的集群系统模型是由Reynolds[1]于1987年提出的Boids模型，该模型用计算机来模拟群体行为，并给出了智能集群系统满足的三个规则：
