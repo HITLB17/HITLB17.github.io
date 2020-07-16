@@ -84,7 +84,7 @@ sudo make install
 
 ​	if there is some problems when you cmake like the following picture:
 
-![error](../image/../images/blog_figure/20200716-1.png)
+![error](https://github.com/HITLB17/HITLB17.github.io/blob/master/images/blog_figure/20200716-1.png?raw=true)
 
 **run the following code at the terminal**
 
