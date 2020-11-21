@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant in Shenlanxueyuan"
 collection: teaching
-# type: "Undergraduate course"
+type: "online course"
 permalink: /teaching/2019-motion-planning
 venue: "Shenlanxueyuan"
-date: 2014-01-01
+date: 2019-09-01
 # location: "City, Country"
 ---
 
