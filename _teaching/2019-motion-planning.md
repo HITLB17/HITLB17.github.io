@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant in Shenlanxueyuan"
+title: "Teaching Assistant in Motion Planning for Mobile Robotics Course, Shenlanxueyuan"
 collection: teaching
 type: "online course"
 permalink: /teaching/2019-motion-planning
