@@ -11,7 +11,7 @@ redirect_from:
 
 Email: 17b904042@stu.hit.edu.cn / hitlb2017@gmail.com
 
-PDF CV, you can find in [CV](https://hitlb17.github.io/files/CV_BoLiu.pdf) or [CV2](https://hitlb17.github.io/files/CV_BoLiu2.pdf)
+# PDF CV, you can find in [CV](https://hitlb17.github.io/files/CV_BoLiu.pdf) or [CV2](https://hitlb17.github.io/files/CV_BoLiu2.pdf)
 
 personal statement
 ======
@@ -46,23 +46,6 @@ Project Experience
   * **Smart UAV landing on moving UGV platform:** I am responsible for project design and control algorithms, in cooperation with Zhaozhe Wang. June 2018- March 2019
   * **Range-limited payload UAV:** I am responsible for the system design, especially the dynamic model optimization of the aircraft wing using Profili and designing the CAD model of the Aircraft. September 2014-October 2015
 
-Awards
-======
-* Winning prize of the Global (China) MathWorks Minidorne Competitions for college students, 2019
-* Champion of Intelligent UAV Cluster System Competition (over 50 teams participated), 2018 (Team Leader)
-* Outstanding Graduate of Harbin Institute of Technology, 2017
-* Merit Student of Heilongjiang Province, 2016
-* Yu Menglun science innovation scholarship, 2014, 2015
-* Bronze medal of Heilongjiang Province in entrepreneurship, 2015
-* Second class prize of China Aeromodelling Design Challenge 2015 (Team Leader)
-* Third class prize of China Aeromodelling Design Challenge 2014 
-
-Hobbies
-======
-* Model Airplane
-* Running (PB for Half-Marathons: 2hours and 4minutes)
-* Table-tennis and tennis
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -80,4 +63,21 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Awards
+======
+* Winning prize of the Global (China) MathWorks Minidorne Competitions for college students, 2019
+* Champion of Intelligent UAV Cluster System Competition (over 50 teams participated), 2018 (Team Leader)
+* Outstanding Graduate of Harbin Institute of Technology, 2017
+* Merit Student of Heilongjiang Province, 2016
+* Yu Menglun science innovation scholarship, 2015,2014
+* Bronze medal of Heilongjiang Province in entrepreneurship, 2015
+* Second class prize of China Aeromodelling Design Challenge 2015 (Team Leader)
+* Third class prize of China Aeromodelling Design Challenge 2014 
+
+Hobbies
+======
+* Model Airplane
+* Running (PB for Half-Marathons: 2hours and 4minutes)
+* Table-tennis and tennis
   
