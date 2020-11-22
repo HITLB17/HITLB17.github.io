@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "17b904042@stu.hit.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "hitlb2017@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Liu_Bo74"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/my-orcid"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,7 +112,7 @@ author:
   twitter          : "BoLiu2017"
   vine             :
   weibo            :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC4Kj7rHaqhAeF5V2p4C449g?view_as=subscriber"
   wikipedia        :
 
 
