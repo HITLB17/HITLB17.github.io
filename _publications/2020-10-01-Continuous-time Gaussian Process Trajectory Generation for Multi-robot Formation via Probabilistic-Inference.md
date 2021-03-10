@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-10-01-Continuous-time Gaussian Process Trajectory Generation for Multi-robot Formation via Probabilistic-Inference
 excerpt: 'In this paper, we extend a famous motion planning approach GPMP2 to multi-robot cases. Our proposed method can generate trajectories efficiently for a team of robots which have to get through a width-varying area by adaptive formation change.'
 #date: 2020-10-31
-venue: 'This paper is submitted to ICRA2021'
+# venue: 'This paper is submitted to ICRA2021'
 paperurl: 'https://arxiv.org/abs/2010.13148'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
