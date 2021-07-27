@@ -1,0 +1,15 @@
+---
+title: "An Improved Dyna-Q Algorithm for Mobile Robot Path Planning in Unknown Dynamic Environment"
+collection: publications
+permalink: /publication/2021-07-27-An Improve Dyna-Q
+excerpt: 'This article deals with the problem of mobile robot path planning in an unknown environment that contains both static and dynamic obstacles, utilizing a reinforcement learning approach. We propose an improved Dyna-Q algorithm, which incorporates heuristic search strategies, simulated annealing mechanism, and reactive navigation principle into Q-learning based on the Dyna architecture. A novel action-selection strategy combining ϵ-greedy policy with the cooling schedule control is presented, which, together with the heuristic reward function and heuristic actions, can tackle the exploration-exploitation dilemma and enhance the performance of global searching, convergence property, and learning efficiency for path planning. The proposed method is superior to the classical Q-learning and Dyna-Q algorithms in an unknown static environment, and it is successfully applied to an uncertain environment with multiple dynamic obstacles in simulations. Further, practical experiments are conducted by integrating MATLAB and robot operating system (ROS) on a physical robot platform, and the mobile robot manages to find a collision-free path, thus fulfilling autonomous navigation tasks in the real world.'
+date: 2021-07-26
+venue: 'This paper is published on IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+paperurl: 'https://ieeexplore.ieee.org/document/9495840'
+citation: 'M. Pei, H. An, B. Liu and C. Wang, "An Improved Dyna-Q Algorithm for Mobile Robot Path Planning in Unknown Dynamic Environment," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3096935.'
+---
+This article deals with the problem of mobile robot path planning in an unknown environment that contains both static and dynamic obstacles, utilizing a reinforcement learning approach. We propose an improved Dyna-Q algorithm, which incorporates heuristic search strategies, simulated annealing mechanism, and reactive navigation principle into Q-learning based on the Dyna architecture. A novel action-selection strategy combining ϵ-greedy policy with the cooling schedule control is presented, which, together with the heuristic reward function and heuristic actions, can tackle the exploration-exploitation dilemma and enhance the performance of global searching, convergence property, and learning efficiency for path planning. The proposed method is superior to the classical Q-learning and Dyna-Q algorithms in an unknown static environment, and it is successfully applied to an uncertain environment with multiple dynamic obstacles in simulations. Further, practical experiments are conducted by integrating MATLAB and robot operating system (ROS) on a physical robot platform, and the mobile robot manages to find a collision-free path, thus fulfilling autonomous navigation tasks in the real world.
+
+[Download paper in IEEE](https://ieeexplore.ieee.org/document/9495840).
+
+I am responsible for the design and implementation of the experiment.
