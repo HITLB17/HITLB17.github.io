@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage "
+title                    : "Bo Liu/ Ph.D. Student"
 title_separator          : "-"
 name                     : &name "Bo Liu"
 description              : &description "personal description"
@@ -191,6 +191,13 @@ collections:
 # Defaults
 defaults:
   # _posts
+   - scope:
+      path: ""
+      type: Research
+    values:
+      layout: Research
+      author_profile: true
+      share: true
   - scope:
       path: ""
       type: posts
