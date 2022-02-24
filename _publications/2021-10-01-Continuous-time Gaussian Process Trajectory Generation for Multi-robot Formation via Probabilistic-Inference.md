@@ -1,9 +1,9 @@
 ---
 title: "Continuous-time Gaussian Process Trajectory Generation for Multi-robot Formation via Probabilistic Inference"
 collection: publications
-permalink: /publication/2020-10-01-Continuous-time Gaussian Process Trajectory Generation for Multi-robot Formation via Probabilistic-Inference
+permalink: /publication/2021-10-01-Continuous-time Gaussian Process Trajectory Generation for Multi-robot Formation via Probabilistic-Inference
 excerpt: 'In this paper, we extend a famous motion planning approach GPMP2 to multi-robot cases. Our proposed method can generate trajectories efficiently for a team of robots which have to get through a width-varying area by adaptive formation change.'
-#date: 2020-10-31
+date: 2021-10-01
 venue: 'This paper is accepted to IROS2021'
 paperurl: 'https://ieeexplore.ieee.org/document/9636573'
 citation: 'S. Guo, B. Liu, S. Zhang, J. Guo and C. Wang, "Continuous-time Gaussian Process Trajectory Generation for Multi-robot Formation via Probabilistic Inference," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 9247-9253, doi: 10.1109/IROS51168.2021.9636573.'
