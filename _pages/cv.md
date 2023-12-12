@@ -28,10 +28,10 @@ Education
 Research Skills
 ======
 * Interests:
-  * UAV, Pixhawk Autopilot and MAVLink
-  * Robot Learning, Reinforcement Learning
-  * Path planning (A*, JPS, RRT, MDP, minimum snap etc.), Optimization
-  * Traditional control theory
+  * UAV, Pixhawk and MAVLink
+  * Robot Learning, Reinforcement Learning with safety guarantee
+  * motion planning (A*, JPS, RRT, MDP, minimum snap etc.), Optimization
+  * formation control with learning and safety guarantee
 * Programming Languages:
   * C++, MATLAB, PYTHON
 * Tools/ Software:
@@ -64,6 +64,8 @@ Teaching
   
 Awards
 ======
+* First class prize of China Aeromodelling Design Challenge 2022 (supervisor) 
+* Second class prize of China Aeromodelling Design Challenge 2021 (supervisor) 
 * Winning prize of the Global (China) MathWorks Minidorne Competitions for college students, 2019
 * Champion of Intelligent UAV Cluster System Competition (over 50 teams participated), 2018 (Team Leader)
 * Outstanding Graduate of Harbin Institute of Technology, 2017
@@ -76,6 +78,6 @@ Awards
 Hobbies
 ======
 * Model Airplane
-* Running (PB for Half-Marathons: 2hours and 4minutes)
+* Marathon (PB for Half-Marathons: 1hours and 55minutes)
 * Table-tennis and tennis
   
